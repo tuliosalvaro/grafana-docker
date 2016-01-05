@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ubuntu:trusty
 
 ENV GRAFANA_VERSION 2.6.0
 
